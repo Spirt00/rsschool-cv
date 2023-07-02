@@ -1,15 +1,18 @@
-1.**Name** _Dmytro Yakushchenko_
-2.**email:** _dmytro.iakushchenko@nure.ua_
+1. **Name** _Dmytro Yakushchenko_
+====
+2. **email:** _dmytro.iakushchenko@nure.ua_
 **discord:** _Dmitry Yakushchenko_
-3._I am second-year student of Kharkiv National University of Radioelectronics, I am studying on Computer Engineering and Control faculty. I am interested in coding and solving_ _various problems related to programming. I found interesting to find and correct different errors and create solutions for various tasks in my head. I like studying in university_ _because I find interesting communication with lecturer. It helps me to understand the subject, and lecturer is also glad to hear the quetions on the lecture._
+====
+3. _I am second-year student of Kharkiv National University of Radioelectronics, I am studying on Computer Engineering and Control faculty. I am interested in coding and solving_ _various problems related to programming. I found interesting to find and correct different errors and create solutions for various tasks in my head. I like studying in university_ _because I find interesting communication with lecturer. It helps me to understand the subject, and lecturer is also glad to hear the quetions on the lecture._
 _Also I studied javascript before by myself, but I want to improve my skills in this programming language and build a career later._
-4.Skills
-MySQL
-C++
-VHDL
-Javascript
-
-5.Example of javascript code:
+====
+4. Skills
+    *MySQL ++---
+    *C++ ++---
+    *VHDL +++--
+    *Javascript ++---
+====
+5. Example of javascript code:
 ```let salaries = {
 Manager: { 
 	salary: 35000,  // salary after tax; should be integer; min: 100, max: 100000
@@ -115,4 +118,5 @@ return result; // If you need only the object with totalBudget, use return resul
 
 console.log(calculateTeamFinanceReport(salaries, team));
 ```
-I have completed English courses at B2 level in Poland, and have a certificate to confirm it.
+====
+6. _I have completed English courses at B2 level in Poland, and have a certificate to confirm it._
